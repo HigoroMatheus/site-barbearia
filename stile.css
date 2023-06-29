@@ -41,3 +41,33 @@ nav a:hover{
     color: #c78c18;
     text-decoration: underline;
 }
+
+.banner{
+    width: 100%;
+}
+
+.título-principal{
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
+}
+
+.principal{
+    padding: 3em 0;
+    background: #fefefe;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.principal p {
+    font-weight: bold;
+}
+
+.principal strong{
+    font-weight: bold;
+}
+
+.principal em {
+    font-style: italic;
+}
