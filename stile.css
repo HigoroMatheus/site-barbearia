@@ -117,8 +117,8 @@ nav a:hover{
     font-weight: bold;
 }
 
-.itens:: before{
-    content: ""
+.itens:: before {
+    content: "";
 }
 
 .imagem-beneficios{
