@@ -189,15 +189,15 @@ footer{
     border-radius: 10px ;
 }
 
-.produtos li: hover{
+.produtos li:hover{
     border-color: #c78c19;
 }
 
-.produtos li: :active{
-    border-color: #088c19
+.produtos li:active{
+    border-color: #088c19;
 }
 
-.produtos li : hover h2 {
+.produtos li:hover h2 {
     font-size: 34px;
 }
 
